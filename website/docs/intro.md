@@ -3,12 +3,11 @@ sidebar_position: 1
 slug: /
 ---
 
-# App Services Developer Platform Resources
+# Developer Platform Resources
 
-## Overview
+## App Services Developer Platform Resources
 
-
-This document provides information about the components, development practices, tools for Application Services (RHOAS) to be used by developers looking to understand our architecture and extensibility patterns.
+This website provides information about the components, development practices, tools for Application Services (RHOAS) to be used by developers looking to understand our architecture and extensibility patterns.
 The RHOAS tools focus on the developer experience for Application Services by building a set of tools, SDKs and software patterns that aggregate services and make them consumable by end users and their frameworks of choice. 
 
 ## RHOAS Components
