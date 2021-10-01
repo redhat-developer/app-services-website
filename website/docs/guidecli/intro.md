@@ -2,4 +2,6 @@
 sidebar_position: 1
 ---
 
-## TODO
+## CLI Guidelines
+
+WIP
