@@ -17,8 +17,8 @@ We aim to minimize the effort required to make any future service available to, 
 
 ## RHOAS Components
 
-- RHOAS Operator (https://github.com/redhat-developer/app-services-operator)
 - RHOAS UI (https://github.com/redhat-developer/app-services-ui)
 - RHOAS CLI (https://github.com/redhat-developer/app-services-cli)
 - RHOAS SDKS (https://github.com/topics/rhoas-sdk)
+- RHOAS Operator (https://github.com/redhat-developer/app-services-operator)
 
