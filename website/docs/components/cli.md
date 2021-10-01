@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# App Services CLI
+# CLI
 
 The App Services CLI provides a way to interact with Application Service. The CLI provides extensibility capabilities to onboard new services
 
